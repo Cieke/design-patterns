@@ -1,4 +1,4 @@
-package com.realdolmen.factory;
+package com.realdolmen.abstract_factory;
 
 public abstract class Truck {
     private int capacity;

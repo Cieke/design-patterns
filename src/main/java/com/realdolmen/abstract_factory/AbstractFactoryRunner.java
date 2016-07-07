@@ -1,8 +1,8 @@
-package com.realdolmen.factory;
+package com.realdolmen.abstract_factory;
 
-public class CarRunner {
+public class AbstractFactoryRunner {
     public static void main(String[] args) {
-        // Switch factory by simply replacing this with ToyotaFactory
+        // Switch abstract_factory by simply replacing this with ToyotaFactory
         VehicleFactory factory = new AudiFactory();
 
         // Imagine this use being done all over the place in the entire application.

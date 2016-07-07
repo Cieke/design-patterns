@@ -1,4 +1,4 @@
-package com.realdolmen.factory;
+package com.realdolmen.abstract_factory;
 
 public class Car {
     private String model;
